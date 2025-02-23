@@ -38,7 +38,8 @@
 ---
 
 ### 🌍 Connect with Me  
-[![LinkedIn](https://www.linkedin.com/in/shrawani-gongshe-73b16b291/)]  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shrawani-gongshe-73b16b291/)
+
 📩 **Email:** sgongshe@gmail.com  
 
 ---  
