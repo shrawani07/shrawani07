@@ -1,7 +1,7 @@
 ### Hi there, I'm Shrawani Gongshe! 👋  
 
 🎓 **AI & Data Science Enthusiast** | 💻 Passionate about **Machine Learning & NLP**  
-📍 **3rd-year B.Tech student** at PRMITR | 🚀 Exploring AI & Product Management  
+📍 **Passionate about AI & Product Management** | 🚀 Exploring AI-driven solutions  
 
 ---
 
