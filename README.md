@@ -1,4 +1,4 @@
-![Shrawani's Banner](https://raw.githubusercontent.com/shrawani07/shrau07/main/1671031888906.jpeg)
+![Shrawani's Banner](https://github.com/user-attachments/assets/75dc2b2e-87d5-49fe-b9dd-867fa74d89a3)
 ### Hi there, I'm Shrawani Gongshe! 👋  
 
 🎓 **AI & Data Science Enthusiast** | 💻 Passionate about **Machine Learning & NLP**  
