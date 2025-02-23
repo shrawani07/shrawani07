@@ -1,4 +1,4 @@
-![Brain of a Data Analyst](![Image](https://github.com/shrawani07/shrau07/blob/main/1671031888906.jpeg))
+![Shrawani's Banner](https://raw.githubusercontent.com/shrawani07/shrau07/main/1671031888906.jpeg)
 ### Hi there, I'm Shrawani Gongshe! 👋  
 
 🎓 **AI & Data Science Enthusiast** | 💻 Passionate about **Machine Learning & NLP**  
