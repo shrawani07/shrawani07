@@ -1,3 +1,4 @@
+![Brain of a Data Analyst](![Image](https://github.com/user-attachments/assets/87e2cff6-afea-42ac-8f17-2e989f7265b4))
 ### Hi there, I'm Shrawani Gongshe! 👋  
 
 🎓 **AI & Data Science Enthusiast** | 💻 Passionate about **Machine Learning & NLP**  
